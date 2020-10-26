@@ -1,2 +1,2 @@
 # MultiThread1
-First Threaded Program
+First multi-threading project
